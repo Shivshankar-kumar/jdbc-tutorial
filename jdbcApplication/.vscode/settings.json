@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\HP\\Downloads\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "application/src/in.jdbcUtil/MySqlQuery",
+        "application/src/Query"
+    ]
+}
